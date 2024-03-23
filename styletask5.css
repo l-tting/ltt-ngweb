@@ -1,0 +1,57 @@
+.parent{
+    position: relative;
+}
+.bar{
+    position: absolute;
+    left: 28%;
+    top: 10%;
+}
+.content{
+    position: absolute;
+    top: 160px;
+    left: 34%;
+    text-align: center;
+}
+.nav{
+    margin-right: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    margin-right: 39px;
+}
+body{
+    background-image: url(list-currently-logged-in-users-on-linux.avif)
+}
+.start{
+    position: absolute;
+    left: 33%;
+    background-color:blanchedalmond;
+    width: 30%;
+    height: 18%;
+    font-size: large;
+    color:black;
+    top: 210px;
+    border-radius: 7px;
+}
+.create{
+    position: absolute;
+    left: 14%;
+}
+.para{
+    color: white;
+    font-size: 400%;
+}
+.head{
+    position: relative;
+}
+.pandia{
+    position: relative;
+    color: white;
+    left: 42%;
+    
+
+}
+.line{
+    
+    
+}
